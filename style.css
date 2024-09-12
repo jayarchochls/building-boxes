@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    min-height: 130px;
+    width: 260px;
+    background-color: #B97A57;
+    margin: 15px;
+    display: inline-block;
+    position: absolute;
+}
+#wrapper{
+    width: 940px;
+    background-color: #FFD9B7;
+    margin: 0px auto;
+    min-height: 590px;
+}
+#navigation{
+    min-height: 130px;
+    width: 635px;
+    background-color: #FF7F27;
+    display: inline-block;
+    margin: 15px 0px 0px 290px;
+}
+#main_content{
+    min-height: 330px;
+    width: 910px;
+    background-color: #880015;
+    margin: 15px;
+    position: relative;
+}
+    #about{
+        min-height: 250px;
+        width: 635px;
+        background-color: #FFAEC9;
+        position: absolute;
+        margin: 40px;
+    }
+    #advertisement{
+        min-height: 200px;
+        width: 155px;
+        background-color: #C8BFE7;
+        margin: 40px 40px 40px 715px;
+        position: absolute;
+    }
+.sponsors{
+    min-height: 65px;
+    width: 290px;
+    background-color: #FFFF88;
+    display: inline-block;
+    margin: 0px 0px 0px 15px;
+}
